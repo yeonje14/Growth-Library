@@ -1,10 +1,10 @@
 # 📚 2026 Growth Library: Australia Working Holiday
-###  2026년 48권 독서 챌린지
-###  2026 Reading Challenge(48 Books)
+### 🇰🇷 2026년 호주 워킹홀리데이 48권 독서 챌린지
+### 🇦🇺 2026 Reading Challenge in Australia (48 Books)
 
 > **"A reader lives a thousand lives before he dies."**
 >
-> **🇰🇷 소개:** 컴퓨터공학도로서 **기술(Tech)**의 깊이를 더하고, **자본주의(Capitalism)**의 규칙을 익히며, 성숙한 **삶의 태도(Attitude)**를 갖추기 위한 1년간의 기록입니다.
+> **🇰🇷 소개:** 컴퓨터공학도로서 **기술**의 깊이를 더하고, **자본주의**의 규칙을 익히며, 성숙한 **삶의 태도**를 갖추기 위한 1년간의 기록입니다.
 >
 > **🇦🇺 Intro:** As a Computer Engineering student, this repository records my one-year journey to deepen my **Technical** skills, master the rules of **Capitalism**, and cultivate a mature **Attitude** towards life.
 
