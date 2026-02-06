@@ -11,8 +11,8 @@
 <br>
 
 ## 🏃‍♂️ Progress (진행 상황)
-![Progress](https://img.shields.io/badge/Progress-1%2F48-blue?style=for-the-badge&logo=books)
-![Last Commit](https://img.shields.io/badge/Last%20Update-2026.01.11-green?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-2%2F48-blue?style=for-the-badge&logo=books)
+![Last Commit](https://img.shields.io/badge/Last%20Update-2026.02.06-green?style=for-the-badge)
 
 <br>
 
