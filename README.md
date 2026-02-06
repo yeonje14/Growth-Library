@@ -39,7 +39,7 @@
 | Category | Title (Korean / English) | Author | Reading Period | Review |
 | :---: | :--- | :--- | :---: | :---: |
 | 🌱<br>Self-Help | **아주 작은 습관의 힘**<br>Atomic Habits | James Clear | 2026/01/01 - 2026/01/10 | [Link ▶](https://medium.com/@yeonjei14/growth-아주-작은-습관의-힘-부제-나를-업그레이드한-실행-알고리즘-ddb505047a7b?postPublishedType=repub) |
-| 💻<br>Dev | **비전공자를 위한 이해할 수 있는 IT 지식**<br>IT Knowledge for Non-Majors | Choi Wook | - | [Link ▶]() |
+| 💻<br>Dev | **비전공자를 위한 이해할 수 있는 IT 지식**<br>IT Knowledge for Non-Majors | Choi Wook | 2026/01/11 - 2026/01/19 | [Link ▶](https://medium.com/@yeonjei14/tech-비전공자를-위한-이해할-수-있는-it-지식-부제-개발자의-언어를-통역하는-법-314363c6c6b7?postPublishedType=initial) |
 | 💰<br>Economy | **돈의 속성**<br>The Properties of Money | Kim Seung-ho | - | [Link ▶]() |
 | 🏛️<br>Humanities | **지적 대화를 위한 넓고 얕은 지식 0**<br>Broad and Shallow Knowledge for Intellectual Dialogue 0 | Chae Sajang | - | [Link ▶]() |
 | 🌱<br>Self-Help | **역행자**<br>The Reverse Script | Jachung | - | [Link ▶]() |
