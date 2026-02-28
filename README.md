@@ -11,8 +11,8 @@
 <br>
 
 ## 🏃‍♂️ Progress (진행 상황)
-![Progress](https://img.shields.io/badge/Progress-3%2F48-blue?style=for-the-badge&logo=books)
-![Last Commit](https://img.shields.io/badge/Last%20Update-2026.02.15-green?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-4%2F48-blue?style=for-the-badge&logo=books)
+![Last Commit](https://img.shields.io/badge/Last%20Update-2026.02.28-green?style=for-the-badge)
 
 <br>
 
@@ -41,7 +41,7 @@
 | 🌱<br>Self-Help | **아주 작은 습관의 힘**<br>Atomic Habits | James Clear | 2026/01/01 - 2026/01/10 | [Link ▶](https://medium.com/@yeonjei14/growth-아주-작은-습관의-힘-부제-나를-업그레이드한-실행-알고리즘-ddb505047a7b?postPublishedType=repub) |
 | 💻<br>Dev | **비전공자를 위한 이해할 수 있는 IT 지식**<br>IT Knowledge for Non-Majors | Choi Wook | 2026/01/11 - 2026/01/19 | [Link ▶](https://medium.com/@yeonjei14/tech-비전공자를-위한-이해할-수-있는-it-지식-부제-개발자의-언어를-통역하는-법-314363c6c6b7?postPublishedType=initial) |
 | 💰<br>Economy | **돈의 속성**<br>The Properties of Money | Kim Seung-ho | 2026/01/20 - 2026/01/28 | [Link ▶](https://medium.com/p/0d0717e36a3c?postPublishedType=initial) |
-| 🏛️<br>Humanities | **지적 대화를 위한 넓고 얕은 지식 0**<br>Broad and Shallow Knowledge for Intellectual Dialogue 0 | Chae Sajang | - | [Link ▶]() |
+| 🏛️<br>Humanities | **지적 대화를 위한 넓고 얕은 지식 0**<br>Broad and Shallow Knowledge for Intellectual Dialogue 0 | Chae Sajang | 2026/01/29 - 2026/02/03 | [Link ▶](https://medium.com/@yeonjei14/humanities-지적-대화를-위한-넓고-얕은-지식-0-부제-우주와-인류의-기원을-통해-나의-위치를-돌아보다-d1e75aaa2d81?postPublishedType=repub) |
 | 🌱<br>Self-Help | **역행자**<br>The Reverse Script | Jachung | - | [Link ▶]() |
 | 💻<br>Dev | **세상을 읽는 새로운 언어, 빅데이터**<br>Big Data: A New Language Reading the World | Cho Seong-jun | - | [Link ▶]() |
 | 💰<br>Economy | **부의 인문학**<br>The Humanities of Wealth | Brownstone | - | [Link ▶]() |
