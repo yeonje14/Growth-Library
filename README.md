@@ -11,8 +11,8 @@
 <br>
 
 ## 🏃‍♂️ Progress (진행 상황)
-![Progress](https://img.shields.io/badge/Progress-5%2F48-blue?style=for-the-badge&logo=books)
-![Last Commit](https://img.shields.io/badge/Last%20Update-2026.03.18-green?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-6%2F48-blue?style=for-the-badge&logo=books)
+![Last Commit](https://img.shields.io/badge/Last%20Update-2026.03.23-green?style=for-the-badge)
 
 <br>
 
@@ -43,7 +43,7 @@
 | 💰<br>Economy | **돈의 속성**<br>The Properties of Money | Kim Seung-ho | 2026/01/20 - 2026/01/28 | [Link ▶](https://medium.com/p/0d0717e36a3c?postPublishedType=initial) |
 | 🏛️<br>Humanities | **지적 대화를 위한 넓고 얕은 지식 0**<br>Broad and Shallow Knowledge for Intellectual Dialogue 0 | Chae Sajang | 2026/01/29 - 2026/02/03 | [Link ▶](https://medium.com/@yeonjei14/humanities-지적-대화를-위한-넓고-얕은-지식-0-부제-우주와-인류의-기원을-통해-나의-위치를-돌아보다-d1e75aaa2d81?postPublishedType=repub) |
 | 🌱<br>Self-Help | **역행자**<br>The Reverse Script | Jachung | 2026/02/04 - 2026/02/10 | [Link ▶](https://medium.com/p/65a5f7426766?postPublishedType=initial) |
-| 💻<br>Dev | **세상을 읽는 새로운 언어, 빅데이터**<br>Big Data: A New Language Reading the World | Cho Seong-jun | - | [Link ▶]() |
+| 💻<br>Dev | **세상을 읽는 새로운 언어, 빅데이터**<br>Big Data: A New Language Reading the World | Cho Seong-jun | 2026/02/11 - 2026/02/18 | [Link ▶](https://medium.com/p/e1ae6172ab9a?postPublishedType=initial) |
 | 💰<br>Economy | **부의 인문학**<br>The Humanities of Wealth | Brownstone | - | [Link ▶]() |
 | 🏛️<br>Humanities | **자존감 수업**<br>Lessons in Self-Esteem | Yoon Hong-gyun | - | [Link ▶]() |
 | 🌱<br>Self-Help | **세이노의 가르침**<br>Sayno's Teachings | Sayno | - | [Link ▶]() |
