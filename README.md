@@ -11,7 +11,7 @@
 <br>
 
 ## 🏃‍♂️ Progress (진행 상황)
-![Progress](https://img.shields.io/badge/Progress-8%2F48-blue?style=for-the-badge&logo=books)
+![Progress](https://img.shields.io/badge/Progress-9%2F48-blue?style=for-the-badge&logo=books)
 ![Last Commit](https://img.shields.io/badge/Last%20Update-2026.06.30-green?style=for-the-badge)
 
 <br>
@@ -46,7 +46,7 @@
 | 💻<br>Dev | **세상을 읽는 새로운 언어, 빅데이터**<br>Big Data: A New Language Reading the World | Cho Seong-jun | 2026/02/11 - 2026/02/18 | [Link ▶](https://medium.com/p/e1ae6172ab9a?postPublishedType=initial) |
 | 💰<br>Economy | **부의 인문학**<br>The Humanities of Wealth | Brownstone | 2026/02/19 - 2026/02/25 | [Link ▶](https://medium.com/p/3ee727d9f619?postPublishedType=initial) |
 | 🏛️<br>Humanities | **자존감 수업**<br>Lessons in Self-Esteem | Yoon Hong-gyun | 2026/02/26 - 2026/03/05 | [Link ▶](https://medium.com/@yeonjei14/growth-자존감-수업-how-to-love-yourself-부제-타인의-시선에서-벗어나-내-삶의-중심을-잡는-단단한-멘탈-설계-be11a17ab76d) |
-| 🌱<br>Self-Help | **세이노의 가르침**<br>Sayno's Teachings | Sayno | - | [Link ▶]() |
+| 🌱<br>Self-Help | **세이노의 가르침**<br>Sayno's Teachings | Sayno | 2026/03/06 - 2026/03/13 | [Link ▶](https://medium.com/@yeonjei14/growth-%EC%84%B8%EC%9D%B4%EB%85%B8%EC%9D%98-%EA%B0%80%EB%A5%B4%EC%B9%A8-saynos-lections-%EB%B6%80%EC%A0%9C-%ED%94%BC%EC%99%80-%EB%95%80%EC%9C%BC%EB%A1%9C-%EC%9E%90%EB%B3%B8%EC%9D%98-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%ED%95%B4%ED%82%B9%ED%95%98%EB%8A%94-%EB%83%89%ED%98%B9%ED%95%9C-%EC%83%9D%EC%A1%B4-%EA%B0%80%EC%9D%B4%EB%93%9C-bf41f8737231) |
 | 💻<br>Dev | **일의 감각**<br>The Sense of Work | Jo Su-yong | - | [Link ▶]() |
 | 💰<br>Economy | **부자 아빠 가난한 아빠**<br>Rich Dad Poor Dad | Robert Kiyosaki | - | [Link ▶]() |
 | 🏛️<br>Humanities | **지적 대화를 위한 넓고 얕은 지식 1**<br>Broad and Shallow Knowledge for Intellectual Dialogue 1 | Chae Sajang | - | [Link ▶]() |
